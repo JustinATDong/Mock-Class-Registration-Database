@@ -26,8 +26,8 @@ Design your database and create at least the following numbers of records:
 4 courses, 6 sections, 20 enrollment records
 
 You should provide interfaces for the following individuals:
-For the professors:
 
+For the professors:
 a. Given the social security number of a professor, list the titles, classrooms, meeting
 days and time of his/her classes.
 
@@ -35,7 +35,6 @@ b. Given a course number and a section number, count how many students get each
 distinct grade, i.e. ‘A’, ‘A-’, ‘B+’, ‘B’, ‘B-’, etc.
 
 For the students:
-
 a. Given a course number list the sections of the course, including the classrooms, the
 meeting days and time, and the number of students enrolled in each section.
 
