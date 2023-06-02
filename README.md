@@ -42,3 +42,30 @@ meeting days and time, and the number of students enrolled in each section.
 
 b. Given the campus wide ID of a student, list all courses the student took and the
 grades.
+
+# ER DIAGRAM:
+
+![pasted image 0](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/c437d152-b3fd-4da9-b5d8-2ed805d9a773)
+
+# RELATIONAL SCHEMA:
+
+![pasted image 0](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/463ade79-baa9-4338-9478-7a0831fbd724)
+
+# RESULTS:
+
+# HOMEPAGE
+
+![homepage](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/c72c0012-60ca-48b9-8e04-a0e095f8e710)
+
+![student queries](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/8ce0d59c-c43b-4df9-9ae7-0def0d687ace)
+
+![Student's grades by course and section#](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/a9fe53fd-9598-4101-8ecd-f4bb405c4b16)
+
+![Student grades and enrollment by CWID](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/bc4d8497-ee03-433f-8350-b404ed511aaf)
+
+![Professor queries](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/cf0b315a-3dd4-4dab-b055-50289f472076)
+
+![Professor class info](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/cf73f0be-0286-41d8-a333-b2ac57c0867b)
+
+![pasted image 0](https://github.com/JustinATDong/Mock-Class-Registration-Database/assets/70672580/692b8527-c681-4cfe-9551-adb8c41cff33)
+
